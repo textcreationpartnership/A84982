@@ -1,0 +1,590 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full declaration of all particulers concerning the march of the forces under Collonell Fiennes to Bristoll, and their carriage upon their enemies approach. As also a relation of the late bloody abominable conspiracy against the city of Bristoll, as appeareth by the examination of the parties, discovering their plot and intention. Together with sundry letters annexed. With the certaine information, touching the death of Will: Kendall a trooper of Collonel Essex, who was shot by the said Collonel. From a Noble hand.</title>
+            <author>Noble hand.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84982</idno>
+            <idno type="STC">Wing F2343A</idno>
+            <idno type="STC">Thomason E97_6</idno>
+            <idno type="STC">ESTC R13315</idno>
+            <idno type="EEBO-CITATION">99859455</idno>
+            <idno type="PROQUEST">99859455</idno>
+            <idno type="VID">155828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155828)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E97[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full declaration of all particulers concerning the march of the forces under Collonell Fiennes to Bristoll, and their carriage upon their enemies approach. As also a relation of the late bloody abominable conspiracy against the city of Bristoll, as appeareth by the examination of the parties, discovering their plot and intention. Together with sundry letters annexed. With the certaine information, touching the death of Will: Kendall a trooper of Collonel Essex, who was shot by the said Collonel. From a Noble hand.</title>
+                  <author>Noble hand.</author>
+                  <author>Langrish, Hercules.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Aprill, 18. London: Printed for R.D.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A more full declaration" p. 1-6 signed: Hercules Languish.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fiennes, Nathaniel, 1607 or 8-1669 --  Early works to 1800.</term>
+               <term>Kendall, William, d. 1643 --  Early works to 1800.</term>
+               <term>Bristol (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155828:1"/>
+            <pb facs="tcp:155828:1" rendition="simple:additions"/>
+            <p>A FVLL DECLARATION OF ALL PARTICULERS Concerning the March of the Forces under <hi>Collonel Fiennes</hi> to <hi>Briſtoll,</hi> and their carriage upon their enemies approach.</p>
+            <p>
+               <hi>AS ALSO</hi> A Relation of the late bloody abominable conſpiracy againſt the City of <hi>Briſtoll,</hi> as appeareth by the Examinations of the parties, diſovering their Plot and Intention.</p>
+            <p>Together with ſundry Letters Annexed.</p>
+            <p>With the certaine Information, touching the death of WILL: KENDALL a Trooper of Collonel <hi>Eſſex,</hi> who was ſhot by the ſaid Collonel.</p>
+            <p>From a Noble hand.</p>
+            <p>
+               <hi>Aprill,</hi> 18. <hi>London:</hi> Printed for <hi>R.D.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:155828:2"/>
+            <pb n="1" facs="tcp:155828:2"/>
+            <head>
+               <hi>A more full</hi> DECLARATION Of all particulars, concerning the March of the Forces under <hi>Col. Fiennes</hi> to <hi>Briſtoll,</hi> &amp; their carriage upon their enemies approach.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> know Colonell <hi>Fiennes</hi> (our Governours) modeſtie to be ſuch, that I preſume he hath altogether omitted the relation of divers paſſa<g ref="char:EOLhyphen"/>ges, and beene ſparing in ſpecifying others, leſt hee ſhould be thought the publiſher of his own praiſes, or elſe to affect them, the which he no way doth; but ſuch have bin his pains, care; induſtry, vigilancy in this expedition, that I thinke my ſelfe bound in con<g ref="char:EOLhyphen"/>cience to make a full Narration of all his proceedings ſince the beginning of our March, that you, and the Honourable Committee, may not onely know it, but that he, and all under his Command; may have their deſerved prayſes, and that infamy, and reproach, may fall to their lots, who have deſerved it. Let your Honour therefore Deigne to know, that on <hi>Sunday</hi> the fifth of <hi>February</hi> laſt. Orders were ſent, by his Excellence to the ſaid Colonel <hi>Fiennes,</hi> his brother Captaine <hi>Ihn Fiennes,</hi> Captaine <hi>Walter Longs</hi> Lievtenant, Captaine <hi>Alban Coxe</hi> and my ſelfe; to march the next day, to <hi>Hertly</hi> bridge with our Troopes, where we were to meete with Captain <hi>Maſon</hi> and his Dragoneers, and there were we all to receive further Orders from the ſaid Colonel; and accordingly we all met there, but as Captaine <hi>Coxe</hi> and I marched from <hi>Wargrove</hi> thither wards, by <hi>Twyford</hi> with our Troopes the enemy appeared, on the other ſide of the River in a vaporing man<g ref="char:EOLhyphen"/>ner, and told us, that they had provided for us, entertainment upon the way as we ſhould goe to our <hi>Rende-vous,</hi> whereunto anſwer was made, that they were knowne to be more talkative, then active in honourable wayes, and therefore they ſhould not make us to digreſſe one ſtep out of our way, and ſo continued our march (although we heard the drums beate, and the trumpets ſound) neere unto the way we were to march, till we arrived at the ſaid bridge, where wee found the Colonell his brother, and Captaine <hi>Longs</hi> Lievtenant, with their troops in battalia; expecting to be charged by the enemies, who were not farre from thence, and we all ſtayed there at leaſt an houre for Captaine <hi>Maſon,</hi> who bring<g ref="char:EOLhyphen"/>ing with him his Lievtenant, and ſome 25. Dragoniers, reſigned them over to
+<pb facs="tcp:155828:3"/>
+him &amp; ſo we ſent away our quarter-Maſters to <hi>Baſing-ſtoke,</hi> to take up quarter for us there, and whither we marched after them: but after their arrivall there, they were told by the <hi>Conſtables,</hi> that 400. of the enemies Forces had appeared but one houre before, within a mile of the Towne, yet notwithſtanding they tooke up quarters for us there; and when Colonel <hi>Fiennes</hi> and I had viewed the advenues to the Towne, and made choiſe of a court of guard, we entered thereinto with our Troopes; but heard no more of the enemy that night, nor the next day, as wee marched towards <hi>Andever,</hi> but there we heard that ſome of their Forces were about <hi>Malborough,</hi> ſo that the Colonel, and I tooke the ſame care and paines there for our ſecuritie, that we had done before, and barrocaded up moſt of the wayes, as we found them at <hi>Eaſingſtoke,</hi> and from <hi>Andever</hi> we marched the next morning towards the Devices and as we paſſed over <hi>Way-hill</hi> our scoutes diſcovered ſome of the enemies scoutes, whereupon wee made an Alarme and ſent after them, ſo that two of them were taken the others ſaved themſelves by flight but thoſe that were taken, proved to be knowne Malignants of the Coun<g ref="char:EOLhyphen"/>trie, and would confeſſe nothing, ſo that they were releaſed leaving their horſes and furniture behinde them, and thereupon we continued our march, and arri<g ref="char:EOLhyphen"/>ved at the Devices late, where we found a great diſorder in that gariſon, by rea<g ref="char:EOLhyphen"/>ſon of the officers overmuch indulgencie towards the ſouldiers, and the ſouldiers inſolency and incivility towards them: who were exceeding diſobedient and mutinous pretending want of pay to be the cauſe of it, but our Troopes ſome<g ref="char:EOLhyphen"/>what awed them, from the houre of our arrivall, and encouraged the Officers to ſpeake of action: and the next day being <hi>Tueſeday</hi> occaſion was offered for it, re<g ref="char:EOLhyphen"/>port being brought thither that the Cavaliers were entred into <hi>Ma'msbury,</hi> yet was the queſtion put at the Counſell of warre, whether we ſhould goe thither to beate them out therehence, or to <hi>Salisbury,</hi> to diſperſe a crew of Malignants, that were there aſſembled to aſſiſt the High Sheriffe; but after much debate although Colonel <hi>Fiennes,</hi> would have had us, to march towards <hi>Ma'mſbury,</hi> yet by the im<g ref="char:EOLhyphen"/>portunity of Sir <hi>Edward Hungerford</hi> it was ordered, that wee ſhould march to <hi>Salisbury</hi> on <hi>Fryday</hi> night with 500. of his foot, and our party of horſe, but on <hi>Fry<g ref="char:EOLhyphen"/>day</hi> morning, he ſent one <hi>Stevens</hi> of the Devices to the Major of the city to adver<g ref="char:EOLhyphen"/>tiſe him of our intention, and to know if he would facilitate our entrance there, or no whereunto he made no anſwer himſelfe; although at the delivery of the meſſage he had promiſed ſo to doe: but intimation was made to the ſaid <hi>Stevens</hi> to get him gone from thence or elſe ſome injury might befall him, whereupon he le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the town and went, as if he had had no intention to return towards the Devi<g ref="char:EOLhyphen"/>ces, ſo that we heard not of him, till <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay</hi> tenne of the clocke, that wee were within foure miles of the city, and then and not before knowing of this meſſage and the Majors proceedings, it was determined that wee ſhould enter the city by divers wayes, the which was accordingly performed, but by means of this adver<g ref="char:EOLhyphen"/>tiſement, the Sheriffe, and other Malignants were fled, ſo that we had nothing to actuate but to get mony and horſes and to diſarme the citizens. But Sir <hi>Edward</hi> was ſo indulgent towards them (though Malignants) that we tooke therehence but very few horſes and armes and but 500 li. in money, and then being much importuned by ſome honeſt men of <hi>Briſtoll,</hi> to goe thither, with our Forces, (ſee<g ref="char:EOLhyphen"/>ing juſt cauſe for it,) and our Colonel having received two Orders from his Ex<g ref="char:EOLhyphen"/>cellence to goe thither, it was ordered that it ſhould be ſo, the which being knowne to Sir <hi>Edward,</hi> he intreated us and Lievtenant Colonel <hi>White</hi> alſo; that
+<pb n="3" facs="tcp:155828:3"/>
+we would then paſſe by the Devices, whereunto our Colonel conſented, and forthwith we left <hi>Saliſbury,</hi> to march thither-wards where wee arrived late at night but of our 500 foot 200 thereof disbanded in <hi>Salisbury,</hi> or by the way backe to the Devices, and the other 300 quartered by the way, but the next morning being a very foule and ſnowie morning news was brought to us at the Devices that the enemy was before <hi>Shipnam,</hi> whither wee marched with all expedition, although wee had no foot to march thither with us; but we found no enemy there, ſo that we entred the Towne and quartered there all night, and the next morning we drew our forces into a field betweene the Towne and <hi>Malmſbury,</hi> where we ſtood in battalia two hours, but no enemy appearing, wee marched therehence towards the <hi>Pathe,</hi> where we arrived that night, and found 200 com<g ref="char:EOLhyphen"/>manded men of Colonel <hi>Eſſex</hi> his Regiment, who ſuffered us to enter the City, and to quarter there, without any oppoſition, yet did the chiefe commander of them teſtified the next day by ſome inſolent words and carriage, that our for<g ref="char:EOLhyphen"/>ces were not welcome thither: but we that were bent to doe our beſt ſervice to the ſtate and City of <hi>Briſtoll,</hi> marched thitherwards, where we were welcomed by Colonel <hi>Eſſex,</hi> Colonel <hi>Popham</hi> and divers other gentlemen and citizens, but being ſetled there, we ſoone perceived that the then Governour Colonel <hi>Eſſex</hi> was much diſtruſted by the beſt affected of the City, and that thoſe that were then ſuſpected to be Malignants (and now approved Conſpirators) were his moſt intimate friends and continuall or frequent aſſociates, the which incited all well Wiſhers to <hi>Sion,</hi> and their Countrey, to beleeve what had beene ſaid of him by thoſe that perſwaded us thither; and our now Governour Colonel <hi>Fiennes</hi> to la<g ref="char:EOLhyphen"/>bour to prevent his evill deſignes, and that he might the better do it, he perſwa<g ref="char:EOLhyphen"/>ded Colonel <hi>Eſſex</hi> and the Committee that was then here to call in all the Citi<g ref="char:EOLhyphen"/>zens armes, whereunto he yeelded; as alſo that no man ſhould take them backe againe, but ſuch as would take a Proteſtation to this effect. That they ſhould to the uttermoſt of their power with their lives and fortunes defend this city againſt all forces that ſhould come againſt it, rayſed without conſent of Parliament, and that they ſhould diſcover all plots that ſhould bee laid to enſnare and entrap the Forces ſent hither for the defence of it by the Parliament. I know you have had a copy of it, and therefore I will not ſtay upon it, but when theſe armes were brought into <hi>Guild-hall</hi> by the Captaines of Colonel <hi>Pophams</hi> regiment and Co<g ref="char:EOLhyphen"/>lonel <hi>Hungerfords,</hi> and that they were there placed, whereas the Major had al<g ref="char:EOLhyphen"/>wayes kept the key thereof before<g ref="char:punc">▪</g> Colonel <hi>Eſſex</hi> now would keepe it himſelfe, and as is now apparent to no other end, but that good men ſhould not have their armes backe againe; and that none ſhould be armed but ſuch as he ſhould approve of, and what were they, as he declared unto me himſelfe (but Clubbers, and now convicted conſpirators) the which he then termed honeſt men, but as for Bridge-men (alias Round-heads) as infamous creatures tearme them, he pro<g ref="char:EOLhyphen"/>teſted that they ſhould have no armes backe, and as for Captaine <hi>Birch</hi> Captaine of the Voluntiers, he ſaid he was a coward and ſhould have no command, and to ſhew that he was an enemy to him committed him, upon ſo ſlight an occaſi<g ref="char:EOLhyphen"/>on that he was eaſily perſwaded by our Colonel to releaſe him the next morning, ſo that by theſe meanes the bad grewe to be moſt inſolent and our good and ho<g ref="char:EOLhyphen"/>neſt men much dejected, ſo that they thought of nothing more, then of leaving the city, and of carrying avvay their goods, ſuppoſing it to be betrayed by the
+<pb n="6" facs="tcp:155828:4"/>
+ſaid Colonel <hi>Eſſex,</hi> Theſe vvere the ſad complaints, and more then murmurings of the good citizens and gentlemen of theſe parts, ſo that it was novv time, to thinke of ſome courſes, to prevent theſe inconveniences, and ſo did Colonel <hi>Fi<g ref="char:EOLhyphen"/>ennes,</hi> vvho communicated unto me, an Order that he had received from his Ex<g ref="char:EOLhyphen"/>ellence, vvhereby he vvas enjoyned, to ſend Colonel <hi>Eſſex</hi> to <hi>Windſor</hi> or the Parliament; in caſe he ſaw cauſe for it, and having given me reaſons to ſee, and know that there was cauſe ſo to doe, he asked me whether I would aſſiſt him in the execution thereof or no; the which ſeeing cauſe for, I promiſed to doe: and promiſed likewiſe, that all under my command ſhould ſerve him in it, to the ut<g ref="char:EOLhyphen"/>termoſt of their powers, ſo that then we conſulted of the place and time for it, and after deliberation, intended to have ſeized his perſon on <hi>Saturday</hi> the 25. of <hi>Feb.</hi> on which he was to have a courſing day, but the day proving very wette, he went not, but on <hi>Munday</hi> the 27. he was invited to a feaſt by one Captaine <hi>Hil,</hi> whither he went, his houſe being a mile from this city, whither the Colonell and I went with a party of horſe, and then, and there as he was feaſting and revelling with divers Gentlemen and Ladies after his accuſtomed manner, we acquainted him with his Excellencies Order, whereunto he promiſed to obey, and to de<g ref="char:EOLhyphen"/>part therehence forthwith with a partie that wee left there to convoye him to <hi>Berkely-Caſtle;</hi> but the Governour Colonel <hi>Fiennes</hi> returning to ſettle all in good order at <hi>Briſtoll</hi> commanded me to ſtay with him till his departure: but he being gone, he began to ſtand on tearmes and to ſay that he would goe to his Excel<g ref="char:EOLhyphen"/>lence the ſtraighteſt way for <hi>Windſor,</hi> and intreated me to move the Colonel that he might doe ſo, whereupon I returned hither and acquainted Colonel <hi>Fiennes</hi> with it, who told me that Prince <hi>Rupert</hi> was about <hi>Baſing-ſtoke,</hi> or <hi>Hertly</hi>-bridge ſo that the ſureſt and ſafeſt way would be to go by <hi>Gloceſter:</hi> I acquainted Colo<g ref="char:EOLhyphen"/>nel <hi>Eſſex</hi> with ſo much that night, and intimated unto him, and to the Captaines Lievtenant, that convoyed him to <hi>Windſor,</hi> that their ſafeſt courſe would be to march that night, to <hi>Berkly</hi>-caſtle, yet would hee not march, although he was much urged thereunto by the ſaid Captaine, but went to bed, and would not march the next day till ten of the clocke; that I appeared with a ſtrong party of horſe neere to Captaine <hi>Hills</hi> houſe, wherewithall I convoyed him halfe the way to <hi>Berkly</hi>-caſtle but it happened out well that Collonel <hi>Fiennes</hi> returned the night before to <hi>Briſtoll</hi> as he did otherwiſe all might have beene in combuſtion, by the inſolencie of an Enſigne of Colonel <hi>Eſſex</hi> his Regiment, who hurt a horſe of Captaine <hi>Longs</hi> Troope to enter into the caſtle, and there offered a great affront to Lievtenant Colonel <hi>White</hi> whoſe company was then upon the relieving of of that whereof he was Enſigne, both by ſtriking the ſaid Leivetenant Colonell as alſo by commanding his men to give fire on the other company, but Colonel <hi>Fiennes</hi> hearing of it, haſted thither with a party of horſe and ſo the tumult was appeaſed and the inſolent Enſigne impriſoned, but theſe proceedings infinitely enraged our Malignant ſouldlers and citizens, ſo that they forthwith ſent to call Prince <hi>Rupert</hi> to their aſſiſtance the which incited our now Governour to looke about him and to proclaime that thoſe that would take the aforeſaid Proteſtati<g ref="char:EOLhyphen"/>on ſhould have their Armes backe againe, and thoſe that would not, ſhould ſee theirs diſpoſed of to thoſe that would; and that for the defence of the city, ſo that we ſuddainly armed of well affected men ſome five hundred of the citizens the
+<pb n="5" facs="tcp:155828:4"/>
+which were put into five companies, and the workes of the Towne had more done unto them in foure dayes then they had done unto them in ſixe weekes before: But whilſt theſe things were in agitation Captaine <hi>Iohn Fiennes</hi> and a companie of Dragoneers were ſent by our Colonell to <hi>Gloceſter</hi> with much am<g ref="char:EOLhyphen"/>munition and ſome money by meanes whereof the citizens had a new life put into them, and Captaine <hi>Coxe</hi> his Troope, and other Forces vvere ſent into <hi>Som<g ref="char:EOLhyphen"/>merſetſhiere,</hi> vvhereby all the Malignants vvere chaſed there hence: but vvhilſt theſe our Forces were abſent, we on <hi>Sunday</hi> the fift of this ſaid <hi>March,</hi> that <hi>Prince Robert</hi> was at <hi>Saliſbury</hi> vvith an Army of five thouſand men marching this vvay, ſome ſayed more, but for certaine there came and preſented themſelves before this Citie. <hi>On Wedneſday the eight of this moneth, at leaſt foure thouſand Horſe and Foote, but with very few carriages, ſome of his Forces appeared the evening before on</hi> Dur<g ref="char:EOLhyphen"/>don Downe, <hi>ſo that we all ſtood upon our Guards, but at ten at night, we had intelli<g ref="char:EOLhyphen"/>gence that the Malignants of the</hi> Citie <hi>had meetings in ſeverall Houſes thereof, namely at one</hi> Yeomans <hi>houſe, whereupon our Captaine</hi> Buck <hi>with ſome foot, and I with a party of Horſe were ſent thither, where we found</hi> 24. <hi>Perſons that ſtood upon their guards at the ſaid Captaines entrance thereinto; but when they ſaw my party, and ſaid that I had ſent for a canon to batter the Houſe, they yielded and laying downe their Armes, I conveyed them all to the Caſtle, but as I went thither with them, one of them told me, that if I would have compaſſion of him, he would impart unto me ſome things of importance, whereupon I told him I would, and bid him relate what be had to ſay, and if it were of conſequence, be ſhould finde favour, and hereupon he told me that divers of their party were aſſembled at one</hi> Butchers <hi>neere</hi> Fromegate <hi>that night, and would doe miſchiefe, if they were not prevented<g ref="char:punc">▪</g> ſo that I went thither in all haſte, having delivered up my firſt Priſoners. But as approached neere to the ſaid houſe, I ſaw ſome of Captaine</hi> Goodiers <hi>ſouldiers, breaking open the doore, and why? becauſe they of the houſe would hang out noe Lights upon this Alarme, who entring thereinto we found at leaſt</hi> 60. <hi>men well armed, whereof we could take that night but fixe, by meanes of a back Doore, thorough the, which as alſo thorough a river they eſcaped, but I have taken many of them ſince, and what theſe men ſhould have done, you may ſee by the Narration that I herewithall ſend unto you, and who are the principall conſpirators; you ſhall likewiſe know by the Liſt, that you ſhall likewiſe receive therewithall; but we have diſcovered that there were at leaſt</hi> 2000. <hi>confederates thereunto, and you ſhall know more of their names very ſuddenly, but many of them are of the pariſhes, neere adjacent to this Citie, but when I had convoyed thoſe that were in</hi> Butchers <hi>houſe, likewiſe to the Priſon I was commanded by my Colonell to ſend a party, of horſe and Dragoneers, to give an Alarme to ſome of the</hi> Princes <hi>Forces that were quartered neere unto</hi> Captaine HILLS <hi>houſe, the which I did about foure</hi> of the clock in the morning the partie conſiſting of tvventie Horſe, and like number of Dragoneers, who went neere to the ſaid Houſe, and ſeeing a fire neere thereunto, the Commander thereof ſent ſome ſix of them, vvho went neere unto the ſaid fire, and gave fire upon them that Were about it, who de<g ref="char:EOLhyphen"/>fended not themſelves, but run away to their rendezvouze at <hi>Dordon Downe,</hi> where their body of Horſe appeared: then Wedneſday morning by ſeven of the clock, in fight of our Fort made on <hi>Brandon Hill,</hi> where our Go<g ref="char:EOLhyphen"/>vernour then was, and cauſed three ſhot to be made at them, whereby as is re<g ref="char:EOLhyphen"/>ported ſome eminent men were ſlaine, but ſure we are that one white Horſe was there killed, and thereupon the whole body wheeled about, and marchd
+<pb n="6" facs="tcp:155828:5"/>
+away, whereof I being advertiſed, with the colonells conſent, ſent ſome ſmal parties after them, whereof one being but of foure Troopes, encountred with ſeven of the Enemies, and thoſe men of qualitie, but they fled after the firſt Pi<g ref="char:EOLhyphen"/>ſtoll diſcharged by our men but yet not ſo faſt, but that two of them were con<g ref="char:EOLhyphen"/>ſtrained to ſvvimme to ſave their lives, and to leave their Horſes, Piſtolls, and rich <hi>Coates</hi> behinde them, vvith the Horſes <hi>Coates,</hi> and Piſtolls of tvvo others that ſaved themſelvs in woods, ſo that of 7. but three went off, but if we may give credit to the <hi>Trumpeter</hi> that came hither the Thurſeday following to demand two dead bodies, vve muſt ſay that tvvo of them vvere killed, one of them a <hi>Weſton,</hi> and an other vvhoſe name it is thought he had order to conceale: but vvhilſt vve vvere thus in ſome danger and diſtreſſe, we implored often the aſſi<g ref="char:EOLhyphen"/>ſtance of Sir <hi>William Waller,</hi> but his engagements vvere ſuch that he came not hither till Monday night the 13th. of this moneth, and ſtayed here till Sunday the 19th. and then marching out of the <hi>Citie,</hi> the <hi>Counſell</hi> of Warre having or<g ref="char:EOLhyphen"/>dered at the intreatie of the <hi>Citizens,</hi> that I ſhould ſtay here vvith the Governour for the defence of <hi>Citie,</hi> yet did he then order vvhen I vvas very ſicke of an Ague, that part of my Troope ſhould convey to <hi>Berckeley Caſtle</hi> thoſe Officers of Colonell <hi>Eſſex</hi> his Regiment, vvho had refuſed to march vvith him out of the <hi>Citie,</hi> and that the reſt of my Troope ſhould follow him to the <hi>Bathe,</hi> ſo that I ſhould have been left alone, and unable to doe Service, yet I knovving that I am not to conteſt vvith higher <hi>Powers,</hi> acquainted my Troopes vvith his Or<g ref="char:EOLhyphen"/>ders, they obeyed the firſt, and declared that they vvould ſooner lay down their Armes, then be commanded by any other then my ſelfe; Firſt becauſe I drevv them into the Service, and next becauſe I have furniſhed them often vvith mo<g ref="char:EOLhyphen"/>ney and other neceſſaries, vvhen I could not have it from the <hi>State,</hi> I found that their refuſall to leave me vvas not much offenſive to my olonell, but I percei<g ref="char:EOLhyphen"/>ved that it pleaſed very vvell the <hi>Major, Aliermen,</hi> and <hi>Citizens,</hi> vvho ſent after Sir <hi>William</hi> to intreate him to leave my Troope vvith me, for the better defence of their <hi>Citie,</hi> by many of the chiefeſt of them, vvho carried vvith them a <hi>Petiti<g ref="char:EOLhyphen"/>on</hi> ſubſcribed by hundreds of them for that purpoſe, and vvith them I ſent my <hi>Coronet</hi> vvho vvas at the taking of <hi>Malmeſbury,</hi> vvhereof I vvill vvrite nothing; ſince I am certaine that it ſhall be ſpecified unto you by a better penne, but then Sir <hi>William was ſo full of buſineſſe, that he could make no anſwer to the ſaid Petition, but commanded that I ſhould ſend unto him to</hi> Gloceſter, <hi>whether I ſent my Lievtenant on Saterday laſt, who was then at the taking of the Welch, but of this as of</hi> Malmeſbury; <hi>but he brings me word, that my Troope may not ſtay here with me, the which I am glad of, that I may have the Honour to continue in ſo good a Citie, as now it is likely to become, and with ſo good a Colonel, who tells me that I ſhall bee his Major, ſo his Excellence will thereunto conſent, howſoever I deſire to to be, where I may doe beſt ſervice to God, my King, and Country, yet that I may ſo doe. I moſt humbly intreat that I may have my Troope alwayes with me, ſince I can doe nothing without it, and ſince it is none of the worſt of the Army, I deſire to keep, and to have it put into ſome Regiment, where it may firmely ſtand, and not be at every ones diſpoſall. More I have not to ſay at this preſent, but that our Governour continues to fortifie this place, and to ſecure the Countries adjacent with as much care and induſtry as can be required, and that I ſhall manifeſt my ſelfe to be a faith<g ref="char:EOLhyphen"/>full Souldier and</hi>
+            </p>
+            <closer>
+               <signed>Your Honours moſt obedient and humble Servant, <hi>Hercules Languiſh.</hi>
+               </signed>
+               <dateline>From <hi>Briſtoll</hi>
+                  <date>the laſt of <hi>March,</hi> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:155828:5"/>
+            <head>A Short Relation of the late bloudy, abomi<g ref="char:EOLhyphen"/>nable Conſpiracy, againſt this City of <hi>Briſtoll,</hi> as ap<g ref="char:EOLhyphen"/>peareth by the Examination of the Parties. <hi>Together with ſundry Letters annexed.</hi>
+            </head>
+            <p>A Malignant and traiterous party within this City, having long endea<g ref="char:EOLhyphen"/>voured to bring in the Forces of the Enemy, into this Towne; They hoped they had gotten an opportunity to effect their deſignes; on Tueſday laſt at night being the 7th. of <hi>March,</hi> when by their invitation, Prince <hi>Rupert</hi> having drawne a great partie of Horſe, and Dragoneers, with ſome Foot, to <hi>Durdam Downe,</hi> within one mile of the Citie; the Enemy before that night<g ref="char:punc">▪</g> theſe treacherous and bloudy perſons within that Towne, had framed a partie to fall upon the backs of their Guards; and to ſurpriſe them: and cut them off, and to let in the Enemy; whereupon the ringing of two Bells, <hi>viz.</hi> St. <hi>Iohns</hi> and St. <hi>Nicholas,</hi> were to ſet upon the Towne without as the Conſpira<g ref="char:EOLhyphen"/>tours were to fall upon the Guards within the ringing of theſe two Bells, being a common ſigne both to them without and within the Towne, for the bet<g ref="char:EOLhyphen"/>ter effecting of this treacherous and wicked conſpiracie the Chiefe heads there<g ref="char:EOLhyphen"/>of had that night aſſembled together in their houſes thoſe of their Confederacie, with divers Sailers and Halliers; with all ſorts of Armes, Muſquets, Piſtolls, Swords Clubs, and barrells of old nailes to charge the Ordinance withall; af<g ref="char:EOLhyphen"/>ter they had ſurpriſed them; and theſe ſeverall Companies under their ſeverall Leaders were to have fallen upon the ſeverall Courts of Guard. Mr. <hi>Robert Yeomans,</hi> who is the head of the <hi>Conſpiracy;</hi> and pretends that he had a <hi>Commiſſion</hi> from his Majeſtie, for what he hath done (being to fall upon the maine Guard, and Mr. <hi>George Butcher</hi> with his company was to have fallen upon the guard at <hi>Froomgate,</hi> and to have opened it to have had the Enemie to enter by; others no doubt had their parts to play; and that better to diſtinguiſh themſelves, from thoſe that were deſtined to deſtruction; thoſe of their party had a word which was <hi>Charles</hi>) and certaine markes of <hi>white Tape</hi> tyed upon their breſts before, and upon their Hats behinde, and ſuch as were to be ſpared within doores had certain markes ſet upon the inſide of their doores, for the reſt, if we may beleeve the ſpeeches of an Officer: amongſt the Enemies Forces one of them was heard to ſay, that Prince <hi>Rupert</hi> had commanded to give no quarter to man, woman, nor child; that had not their markes upon their perſons or houſes; and that at the ſame time, that they were to fall into the Towne; the Sailers were to ſet the Towne on fire in divers places, which as is conceived was Captaine <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oonew<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk,</hi> but <hi>God</hi> of his mercy delivered us from this dangerous and deviliſh Conſpiracie;
+<pb n="8" facs="tcp:155828:6"/>
+by ſome notice that we had given us of their meeting at <hi>Yeomons</hi> houſe; about an houre or two before the plot ſhould have been put in execution; which was to have been upon the ringing of the Bells, about one or two of the clock in the morning; having ſecured Mr. <hi>Robert Yeomons</hi> and his Company, and after Mr. <hi>Boutcher</hi> and his Company; the neck of the plot being broken within the Towne, the Enemie without (whoſe deſignes as it ſhould ſeeme depended much upon it;) having ſhewn themſelves before the Towne, departed the next morn<g ref="char:EOLhyphen"/>ing after; and ſo <hi>God</hi> put a hooke in their noſtrills and commanded them back againe; for which great mercy in delivering us from a dangerous invaſion from the Enemy from without, and a damnable p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; conſpiracie of ſome traiterous Inhabitants within the <hi>City;</hi> both this Towne and the whole Kingdome, ſo far as it is concerned in the preſervation of this <hi>City,</hi> have great cauſe to give thanks to Almighty <hi>God,</hi> unto whom alone the praiſe is due.</p>
+            <p>
+               <hi>THis is a ſhort Narration of the late deteſtable, and bloody Plot againſt this City whereof I doubt not but more hereafter will appeare; the matter being yet under ex<g ref="char:EOLhyphen"/>amination, onely one writings which was found in</hi> Robert Yeomon's <hi>houſe, I thought fit to adde as followeth.</hi>
+            </p>
+            <p>
+               <hi>ALL Inhabitants of</hi> Bridge-high-Street, <hi>and</hi> Corne-Street, <hi>keepe within your Dores upon paines of your Lives. All other Inhabitants of this City, that ſtand for the</hi> King, <hi>the Proteſtant</hi> Religion, <hi>and the Liberty of the City, let them forthwith appeare at the High-Croſſe with ſuch Armour, as they have for the Defence of their Wives and Children; and follow their Leaders for the ſame defence.</hi>
+            </p>
+            <p>
+               <hi>THere was alſo a Proteſtation taken amongſt them to this effect,</hi> viz. <hi>that they were to oppoſe all Forces whatſoever that were or ſhould be among them; or that ſhould come in without conſent of the King.</hi>
+            </p>
+            <list>
+               <pb n="9" facs="tcp:155828:6"/>
+               <head>The Names of the chiefe Confederates in the late Conſpi<g ref="char:EOLhyphen"/>racie aginſt this City of BRISTOLL.</head>
+               <item>
+                  <hi>ROuland Searchfield,</hi> Merchant.</item>
+               <item>
+                  <hi>Iohn Waldon,</hi> Hornmaker.</item>
+               <item>Mr. <hi>Brent,</hi> Miniſter.</item>
+               <item>
+                  <hi>George Boucher,</hi> Merchant.</item>
+               <item>
+                  <hi>Iohn Boucher.</hi>
+               </item>
+               <item>
+                  <hi>Francis Belcher,</hi> Sope-boyler.</item>
+               <item>
+                  <hi>Thomas Barret,</hi> Cutler.</item>
+               <item>
+                  <hi>Thomas Browne.</hi>
+               </item>
+               <item>
+                  <hi>Philemon Barrow.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Cosbie.</hi>
+               </item>
+               <item>
+                  <hi>Robert Taylor.</hi>
+               </item>
+               <item>Cap. <hi>Bounde Rich.</hi>
+               </item>
+               <item>
+                  <hi>Edward Bounde.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Nickins,</hi> Trunk maker.</item>
+               <item>
+                  <hi>Toby Goodyar.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Williams,</hi> Hatter in Broad-Street.</item>
+               <item>The two <hi>Haynes, William</hi> and <hi>Iohn Halliars</hi> in Halliar Lane, both Sonnes to Widdow <hi>Haynes.</hi>
+               </item>
+               <item>The two <hi>Triſtrams,</hi> bothers, <hi>John</hi> a Chaundler, and <hi>William.</hi>
+               </item>
+               <item>
+                  <hi>Richard Howell.</hi>
+               </item>
+               <item>
+                  <hi>Ephraim Goodyar.</hi>
+               </item>
+               <item>
+                  <hi>Richard Yeomans</hi> Graſiar.</item>
+               <item>
+                  <hi>William Yeomans.</hi> Merchant.</item>
+               <item>
+                  <hi>Robert Yeomans.</hi> Merchant.</item>
+               <item>
+                  <hi>John Broadway,</hi> Vintener.</item>
+               <item>Mr. <hi>Milward</hi> of St. <hi>Michaels.</hi>
+               </item>
+               <item>Mr. <hi>Brooks</hi> of St. <hi>Michaels.</hi>
+               </item>
+               <item>
+                  <hi>William Deane.</hi>
+               </item>
+               <item>
+                  <hi>Edward James,</hi> a Rope-maker.</item>
+               <item>
+                  <hi>George Tetge.</hi>
+               </item>
+               <item>
+                  <hi>Richard Lacket,</hi> a Cooke.</item>
+               <item>
+                  <hi>Iohn Taylor,</hi> Merchant.</item>
+               <item>
+                  <hi>Iohn Taylor,</hi> Rope-maker.</item>
+               <item>
+                  <hi>Edmund Arundell,</hi> Merchant.</item>
+               <item>
+                  <hi>Edmund Dacres,</hi> Plumber.</item>
+               <item>
+                  <hi>Iohn Dimmock,</hi> Carpenter.</item>
+               <item>
+                  <hi>Iohn Throupe.</hi>
+               </item>
+               <item>Dr. <hi>Markes.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Peſtor.</hi>
+               </item>
+               <item>Mr. <hi>Thomas Bursell.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Collins.</hi>
+               </item>
+               <item>
+                  <hi>Robert Blackborrough.</hi>
+               </item>
+               <item>
+                  <hi>Robert Browne</hi> of Clifton.</item>
+               <item>
+                  <hi>Lawrence Browne.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Heyman,</hi> Merchant in St. <hi>Auguſtines.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Carey,</hi> Cooper.</item>
+               <item>Capt. <hi>Doughtie.</hi>
+               </item>
+               <item>Capt. <hi>Coale.</hi>
+               </item>
+               <item>
+                  <hi>William Colſton.</hi>
+               </item>
+               <item>
+                  <hi>Edward Capell.</hi>
+               </item>
+               <item>
+                  <hi>Richard Grigſon.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Godman.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Swetman.</hi>
+               </item>
+               <item>
+                  <hi>William Etans.</hi>
+               </item>
+               <item>
+                  <hi>John Boucher,</hi> Sonne of <hi>Nathaniel Boucher,</hi> Merchant.</item>
+               <item>
+                  <hi>Walton Cugly.</hi>
+               </item>
+               <item>
+                  <hi>Nathaniel Dowles.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hilman.</hi>
+               </item>
+               <item>Mr. <hi>Greene,</hi> Lawyer, Steward of <hi>Briſtoll.</hi>
+               </item>
+               <item>
+                  <hi>Iames Sterry,</hi>
+               </item>
+               <item>
+                  <hi>Griffin Batten.</hi>
+               </item>
+               <item>
+                  <hi>Nathaniel Streete.</hi>
+               </item>
+               <item>
+                  <hi>William Pope.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Peverell.</hi>
+               </item>
+               <item>
+                  <hi>Cornelius Broadway.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Warin.</hi>
+               </item>
+               <item>
+                  <hi>Henry Ruſſell.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Martin.</hi>
+               </item>
+               <item>
+                  <pb n="10" facs="tcp:155828:7"/>
+                  <hi>Edward Hungerford.</hi>
+               </item>
+               <item>
+                  <hi>Iames Abbotte.</hi>
+               </item>
+               <item>
+                  <hi>Edward Hunt.</hi>
+               </item>
+               <item>
+                  <hi>William Oubler.</hi>
+               </item>
+               <item>
+                  <hi>Ioſeph Browne.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Lewes.</hi>
+               </item>
+               <item>
+                  <hi>Henry Prieſt.</hi>
+               </item>
+               <item>
+                  <hi>William Coxe</hi> of Long-Aſhton.</item>
+               <item>
+                  <hi>Iohn Tilly</hi> Mercer.</item>
+               <item>
+                  <hi>Iohn Councell.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Rowden.</hi>
+               </item>
+               <item>
+                  <hi>Edward Taylor.</hi>
+               </item>
+               <item>
+                  <hi>William Ioane<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Thomas Radding.</hi>
+               </item>
+               <item>
+                  <hi>Iames Thomas.</hi>
+               </item>
+               <item>
+                  <hi>Nathaniel Blaunch.</hi>
+               </item>
+            </list>
+            <p>Beſides theſe mentioned of certaine knowledge, there are at leaſt 2000. in the City, suburbs, and Coun<g ref="char:EOLhyphen"/>try adjacent, that were Confederates in the forenamed Conſpiracy. As for the Relation of what ſhould have been acted, when, and how, it is already ſent at large, to the Houſes of Parliament, by Colonell <hi>Fi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnes,</hi> therefore I ſhall here omit that, as at this time unneſſary.</p>
+            <p>But it will be neceſſary here to annex the reaſons that cauſed Co<g ref="char:EOLhyphen"/>lonel <hi>Fiennes</hi> to put in execution the order given him by my L. Gene<g ref="char:EOLhyphen"/>rall to ſend up Colonel <hi>Eſſex</hi> from <hi>Briſtoll,</hi> not as an accuſation againſt Colonel <hi>Eſſex</hi> in this place (let that be followed by thoſe to whom it ap<g ref="char:EOLhyphen"/>pertaines) but by way of vindication of Col. <hi>Fiennes,</hi> that he hath done nothing herein but what the truſt repoſed in him, and the ſafety of that important place did require of him; and that the rather becauſe by Col. <hi>Eſſex</hi> his owne ſpeeche, giving out as it it is reported in the t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn) that he hath cleared himſelf, and is to return to his government again; it begins ſo far to reflect upon C. <hi>Fiennes,</hi> as if he had done him injury. &amp; there had bin no plot at all, but a plot to put himſelfe into the Governours place: the Malignants here in Towne taking up this, and ſpreading it, and adding ſtrength to it by Col. <hi>Eſſex</hi> his owne ſpeeches, and carriages, it will be a great injuſtice to him who hath done his duty, and therein no inconſide<g ref="char:EOLhyphen"/>rable ſervices, to be requited with calumnie: there ſhall here therfore be laid downe a true Relation of the grounds and reaſons firſt in a Letter written by Col. <hi>Fennes:</hi> then the examinations taken both concerning the killing of the Trooper, and the invitation of Prince <hi>Rupert</hi> to come to <hi>Briſtoll,</hi> with a Letter of Sir <hi>Edward Hungerfords</hi> about it: And to all this, agreeth a paſſage that fell out betweene Capt. <hi>Freeman</hi> and an Officer of Prince <hi>Ruperts</hi> at <hi>Andover,</hi> where Captain <hi>Freeman</hi> was conſtrained to counterfeit himſelfe to bee of Prince <hi>Ruperts</hi> partie, and after they had drunk Prince <hi>Roberts</hi> health, after Capt. <hi>Freeman</hi> demanded of the other why they did not goe to <hi>Gloceſter?</hi> the Officer anſwered that the Round-heads had made that place too ſtrong; but they had an eaſier deſigne and of farre greater conſequence which was <hi>Briſtoll;</hi> for ſaid he there we have a ſure party, there is not the turning of a hand there, but Prince <hi>Robert</hi>
+               <pb n="11" facs="tcp:155828:7"/>
+hath intelligence of it: Cap. <hi>Freeman</hi> demanding what party they had there? the Officer anſwered him the Governour, Tom. <hi>Eſſex;</hi> for ſaith hee he gives Prince <hi>Robert</hi> intelligence of all things; there might be added alſo the relation of the Apothecary.</p>
+            <div type="letter">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>IF your Lordſhip had been an eye witneſſe (as ſome have been) how li<g ref="char:EOLhyphen"/>tle time I have had to eate, or drinke, or ſleepe, or to write, ſpeake, or thinke of any thing but what was neceſſary for our preſent preſervation, your Lordſhip would not have thought, that I had been altogether ſo much to blame, in being ſo ſhort in the ſending of particulars concerning Colonell <hi>Eſſex,</hi> and the late Plot, and yet I am ſure (if it miſcaried not) I ſent a Letter long enough, and full enough of particulars concerning Colonell <hi>Eſſex,</hi> and which I thinke were ſufficient to ſatisfie any man, that it was neceſſary hee ſhould be removed from hence before the Towne could be put in any poſſibili<g ref="char:EOLhyphen"/>tie of ſecuritie, although he had not been touched in the point of his Fidelity: ſuch was his exceſſive prodigality and profuſenes in feaſting gaming, and drink<g ref="char:EOLhyphen"/>ing, whilſt his ſouldiers were faſting and periſhing for hunger; and ſuch was his careleſeneſſe of the ſafety of the Towne, that he never went about to ſtrength<g ref="char:EOLhyphen"/>en the Towne by any workes without, till two or three dayes before I came. nor to confirme it within by diſarming and ſuppreſſing the Malignants, but ra<g ref="char:EOLhyphen"/>ther on the otherſide being himſelfe familiar, and intimate with the chiefe Ma<g ref="char:EOLhyphen"/>lignants, and ſiding with them againſt the good partie, and that in ſo high a degree that even after I came to the Towne, he impriſoned Captaine <hi>Birche</hi> (who is and alwayes was the moſt active man in the Towne for the <hi>Parliament</hi>) and ſwore that neither he nor any of his men, nor any of the Bridge men (who are knowne to be the honeſteſt men in the Towne, and who onely appeared in their Armes for us, when Prince <hi>Rupert</hi> came before the Towne) ſhould have any Armes or any command in the <hi>Citie,</hi> and this I can teſtifie my ſelfe, for hee ſwore it deeply in my preſence: and after he ſwore he would commit Lievtenant <hi>Colonell White</hi> and ſo by degrees began to make approaches upon me, ſwearing that I ſhould have nothing to doe there, whereby I perceived, I waſhed a <hi>Black-moore</hi> white, if I went about to do any thing for the reclaiming of him, or the put<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng of the <hi>Citie</hi> in a poſture of ſafetie whilſt he was there, and I ſaw evidently <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat either I muſt ſend him away, or that all the good people in the Town would leave it, and devert both it and me; he had a little before framed a Proteſtati<g ref="char:EOLhyphen"/>on, which ſhould be a teſt of <hi>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lignant</hi> &amp; ill affected perſons, which was ſuch, as many of the beſt affected would not take leſt they ſhould be thereby obliged to to keepe out any other <hi>Parliament</hi> Forces that might come in, and to thruſt out thoſe that were already in it, and on the other ſide was taken by knowne Ma<g ref="char:EOLhyphen"/>lignants (and as I thinke by ſome of the chief Conſpiratours in this late plot) and they did <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fter make that uſe of it, that they were thereby tied to ſuffer no Forces in the Towne but ſuch as were by the conſent of the King and <hi>Parliament,</hi> be<g ref="char:EOLhyphen"/>cauſe they had proteſted to oppoſe all Forces that ſhould make any attempt up<g ref="char:EOLhyphen"/>on
+<pb n="12" facs="tcp:155828:8"/>
+the Town without the conſent of the King and <hi>Parliament,</hi> as they concluded all the <hi>Parliament</hi> Forces did without the Kings conſent. Theſe and many other particulars which are notorious to all the World, I wrote at large, his being here I found inconſiſtent with the good and ſafetie of this <hi>Citie</hi> and though there were no apparent proofe of his falſhood, which I never affirmed, yet there were ſhrewd grounds of jealouſie, as may appeare by the Depoſitions: whereof I have ſent your Lordſhip a <hi>Copie,</hi> together with this Letter, and for that barba<g ref="char:EOLhyphen"/>rous and bloudy act of killing an honeſt man in his Troop, there is no honeſt man in this Towne but abhorreth the memory of it, and I have ſent up the evi<g ref="char:EOLhyphen"/>dence againſt him, under the hand of ſixe or ſeaven of thoſe that were eye, and eare witneſſes, of what was done and ſayed, which was onely this, that being five or ſixe moneths behinde of their pay<g ref="char:punc">▪</g> or a very long time, they comming with their <hi>Captaine</hi> ſome twentie of them, to deſire him to take ſome courſe for it, when this man had ſaid onely theſe words, (Noble Governour, give mee leave to ſpeake a vvord or two to you) he immediately ſhot him through the head<g ref="char:punc">▪</g> and both the Sheriffes and the Coroner having been hitherto hindered to make and enquirie concerning it, ſince <hi>Colonell Eſſex</hi> his removall deſired me that they might examine witneſſes concerning it, and have a verdict about it, alleadging that they vvere likely to be deeply fined for not doing it, that I told them I muſt acquaint my Lord Generall firſt with it, becauſe it may ſomewhat intrench upon his power by Martiall law, and beſides if it ſhould be done im<g ref="char:EOLhyphen"/>mediately upon <hi>Colonell Eſſex</hi> his removall, it might appeare to have ſomething of ſpleen in it, and that I did not carry matters ſo farrely in his abſence: for my part ſo my Lord Generall and the World be ſatisfied that I had good reaſon to ſend him avvay from hence according to his direction, I would not have things proſecuted too hard againſt him, although I am very much deceived, if many a Governour of a Town hath not been called to an accompt, in point of his fidelitie upon weaker grounds then thoſe that I have ſent, nay it vvere ſuffi<g ref="char:EOLhyphen"/>cient to queſtion his fidelitie, that in ſo long time that he hath been here, when he knew that the Towne without any workes. and with ſo ſlender a Company as he had in it (being ſo malignant as for a great part of it, it was) could not be kept, if any conſiderable Force ſhould come againſt it, made no proviſion at all to have the Towne better fortified without, and better furniſhed with a Garri<g ref="char:EOLhyphen"/>ſon within, but ſpent his time in drinking and feaſting, and ſo hee would have done till the Enemie had come to the Gates, and whether then hee would have let them in upon this ground, that it was not probable, that ſuch a Towne ſhould be kept with ſuch a Force; I have cauſe to feare by what I have heard from the Fountaine in caſe he had ſtayed here till the Enemie came before the Towne; and that it was the expectation of the Enemy, and the Reſolution of Colonell <hi>Eſſex,</hi> although he reſerved himſelfe from declaring his minde till the Enemie had been at the Gates; for as to that which Colonell <hi>Eſſex</hi> ſpake off, as the only courſe he intended to take (which was to goe out<g ref="char:punc">▪</g> and meet the Enemie out of the Towne it was agreed by all his owne Officers when the Enemy was approachin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that could not be done for unleſſe we would have left the Towne wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly unguarded &amp; unto it ſelf (which in the condition it then was, and ſtill is in great part, was to leave it to the Enemy) we could not draw out 200. men
+<pb n="13" facs="tcp:155828:8"/>
+to meet them, and what then would Colonell <hi>Eſſex</hi> have drawne out to meet them, before I brought in ſixe Companies of Sir <hi>Edward Hungerfords</hi> Regiment into the Towne.</p>
+               <p>Firſt I had it from divers good hands, and amongſt the reſt from a Knight of good qualitie that be heard his Son in Law who is on the other ſide, ſay tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he ſaw a Letter of Colonell <hi>Eſſex</hi> which was ſent to the Malignants in <hi>Sommerſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſhie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> and particularly from Mr. <hi>Coventrie</hi> to his wife, to aſſure them of Colo<g ref="char:EOLhyphen"/>nell <hi>Eſſex,</hi> and that in that Letter there was a clauſe to this purpoſe. <hi>Let men diſpute of me what they will by God I am for the King.</hi>
+               </p>
+               <p>Secondly, he was familiar and intimate with ſome of the chief Conſpiratours in this late Plot, as <hi>Robert <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eomons, Duk. We<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kes</hi> who preſently upon Colonell <hi>Eſſex</hi> his removall, rode to <hi>Neford</hi> to bring Prince <hi>Ruperts</hi> forces againſt this Towne and was heard to ſay as he went through <hi>Si<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enceſter</hi> to the Governour of that place, that this <hi>Citie</hi> was worth the taking.</p>
+               <p>Thirdly, his Captaine Lievtenant of his owne Company was a chiefe mah in this plot, and Prince <hi>Rupert</hi> in his addreſſes to him, and ſome of <hi>Briſtoll</hi> makes that as one of the grounds of his comming hither to revenge the Affront done to Colonell <hi>Eſſex,</hi> and his Enſigne hath alſo been ſuſpected to encline that way, by his diſcourſe, and by his kindred and Friends; and one of ſervants that very night, that his Colonell was removed from hence drunke a health to Prince <hi>Rupert</hi> upon his knees, and forced others to doe ſo likewiſe.</p>
+            </div>
+            <div type="testimony">
+               <head>The Examination of <hi>William VValker</hi> of <hi>Thorneborough,</hi> Souldier under Capt: <hi>Seymore</hi> in the fight at <hi>Cirenceſter.</hi>
+               </head>
+               <p>HEE ſaith, that one Dr. <hi>Hiskins</hi> being Chaplaine to Prince <hi>Rupert</hi> comming to a Church in <hi>Oxon,</hi> where this <hi>William Walker</hi> was a wounded Priſoner, and underſtanding by his fellowes that he was ſon to a weal<g ref="char:EOLhyphen"/>thy man; The Chaplaine told him, while he intreated for pity (being almoſt dead with his wound, cold and hunger) that he ſhould come forth the morrow; when accordingly he came, and fetched him out of priſon, and inquired of him, where his father lived, writing a letter in his name to his Father for <hi>40 l.</hi> for his ran<g ref="char:EOLhyphen"/>ſome, after he had carried to his Father in the Country this letter, at his com<g ref="char:EOLhyphen"/>ming againe to <hi>Oxon,</hi> in the Chamber where this <hi>William Walker</hi> was ſtan<g ref="char:EOLhyphen"/>ding by the fire, one Mon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſier <hi>Mattanne,</hi> Prince <hi>Ruperts</hi> Gentleman came to this Dr. asking him what newes in the Country. I heare that <hi>Tom Eſſex</hi> will let Prince <hi>Maurice</hi> have no wine at <hi>Cirenceſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> no, ſaith the Dr. no anſwered the Monſier but it is not his fault, but thoſe in the City, that will not let it come forth far ſaith he there is a letter from <hi>Tom Eſſex</hi> to Prince <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> I ſaw it, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> keepe the Caſtle for him, as long as his life laſts and will never ſhoote a ſho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> against him: after which hee preſently tooke the <hi>Dr.</hi> into the window whispering, and then went out, and whiſpered in the
+<pb n="14" facs="tcp:155828:9"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ext Room a while, and came in againe and parted. The <hi>Dr.</hi> bringing this man <hi>Walker</hi> down to receive his Ranſome.</p>
+               <closer>
+                  <signed>So it is, WILLIAM WALKER.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <head>The Examination of <hi>Guido Syllcockes</hi> the 27. of <hi>Febr.</hi>
+               </head>
+               <p>HEE ſaith, that one <hi>William Walker,</hi> that is now at <hi>Thorneborough,</hi> and was taken at <hi>Cirenceſter</hi> told him, that when he was at <hi>Oxford,</hi> he ſaw a Letter in the hand of one of Prince <hi>Ruperts</hi> Gentlemen, ſigned <hi>Tho<g ref="char:EOLhyphen"/>mas Eſſex,</hi> wherein hee promiſed, that if Prince <hi>Rupert</hi> pleaſed to come to <hi>Briſtoll,</hi> he would not ſhoot a ſhot againſt him, but would spend his life for him; and that for the Caſtle hee had poſſeſſed himſelfe of it, and hee ſhould be ſure to have no hurt from thence; or to this effect.</p>
+               <closer>
+                  <signed>GuY. SYLCOCKE. Jun.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>THat I was informed at <hi>Cirenceſter</hi> by one <hi>Courdeene</hi> who is Groom of the Chamber unto Prince <hi>Maurice,</hi> that his Prince did dayly receive Letters from <hi>Eſſex,</hi> and they were ſure of the Town of <hi>Briſtoll</hi> at the firſt ſummons by his meanes, and moſt of the Cavaliers confir<g ref="char:EOLhyphen"/>med in their language his opinion</p>
+               <p>That I heard the Prince ſay at the Table, that if the Parliament would find <hi>Eſſex</hi> money, hee could tell how to ſpend it, and cheat them too: and dranke to him, and ſaid, he hoped hee would not ſtay their Sacke that came from <hi>Bristoll,</hi> meaning from <hi>Eſſex.</hi>
+               </p>
+               <p>That in the hands of the Prince his Secretary, I ſaw Letters about to be Sealed to be directed to <hi>Eſſex.</hi>
+               </p>
+               <p>That from diverſe of his Officers, I have heard word, of a mutiny intended by <hi>Eſſex</hi> to which effect they had gotten ſome of the beſt Ci<g ref="char:EOLhyphen"/>tizens to ſide with them, ſuch as they thought Malignant; but to en<g ref="char:EOLhyphen"/>quire the ſecret truth I durſt not, becauſe they did diſtruſt me, but in the Company of thoſe Towneſmen I once was, and heard how Tray<g ref="char:EOLhyphen"/>terouſly they ſtood affected; but I know not their Names.</p>
+               <l>I am willing to be depoſed upon the premiſes, not out of any envy, that</l>
+               <l>I owe him, but to protect the lives of the then half betrayed ſouldiers.</l>
+               <closer>
+                  <signed>WILLIAM APSELEY.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="15" facs="tcp:155828:9"/>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I underſtand by ſome of <hi>Chippenham,</hi> who were upon <hi>Tueſday</hi> night with Colon<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Lunsford</hi> at <hi>Malmsbury,</hi> That newes being then brought unto him of Colonell <hi>Eſ<g ref="char:EOLhyphen"/>ſex</hi> his removall from <hi>Briſtoll,</hi> he ſtrucke his breaſt, and ſeemed to be much troubled therat, ſo were all the reſt of the <hi>Cavaliers</hi> thou preſent. Theſe of <hi>Chippenham</hi> do likewiſe informe me that they conceive there are not <hi>200</hi> ſouldiers at <hi>Malmſsbury</hi> not <hi>500</hi> at <hi>Ci<g ref="char:EOLhyphen"/>renceſter</hi> (but of this I ſhall be better informed before night.) And that moſt of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath beene collected in <hi>Wilts</hi> and there abouts, being (a the ſaid <hi>Chippenham</hi>-men are in<g ref="char:EOLhyphen"/>formed) neare upon <hi>6000 l.</hi> remaineth yet there in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. A good booty in my opinion to invite ſome of our Forces thither, and Captaine <hi>Lewes</hi> a meete man to bring on the Foote: But you muſt then needes ſpare a troope of horſe, which with thoſe horſe I have) ought to guard the Avenues there towards <hi>Cirenceſter,</hi> if you have any inten<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to aſſiſt me in this deſigne, then to keepe it as private as poſſibly may be. <hi>I</hi> heare nothing for certainty of Prince <hi>Ruperes</hi> Armie more then yeſterday you were as <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ed withall. I reſt,</p>
+               <closer>
+                  <dateline>
+                     <hi>Bath</hi>
+                     <date>this ſecond <hi>of March, 1642.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Your humble ſervant. Thomas Hungerford.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="16" facs="tcp:155828:10"/>
+               <head>To the Honourable Colonell <hi>NATHANIEL FJENNES,</hi> Governour of the Army, of the City of <hi>Briſtoll.</hi> The Certaine Information of <hi>Richard Kent, John Vernon,</hi> and <hi>Iohn Smith,</hi> late Troopers to Colonell <hi>Thomas Eſſex,</hi> touching the Death of <hi>VVilliam Kendall,</hi> one of their fellow Troopers, <hi>(viz.)</hi>
+               </head>
+               <p>THAT whereas the ſaid <hi>William Kendall</hi> did on the 25th. of <hi>Ianuary</hi> laſt at night, come unto ſeverall men of the ſaid Troope, deſiring them to goe with him the next morning to their Captaine, and with him to goe to their Colo<g ref="char:EOLhyphen"/>nell, to lay open their grievances as to a father (having no in<g ref="char:EOLhyphen"/>tent to demand their pay, but to acquaint him that they were forced for want of ready money, to pay 6 d. for that, which o<g ref="char:EOLhyphen"/>ther men (having ready money) payed but 4 d for, And they being quartered in ſuch houſes, where was none (but very bad) hay and provender for their horſes, they having no money could not in conſcience remove their Horſes to better, untill they had diſcharged the houſe where they were, and they ha<g ref="char:EOLhyphen"/>ving not money, were conſtrained to buy their Oates at the Innes, which coſt them more by ſixe pence in a Buſhell, then they could have bought better for in the Market (there being due unto each of them at that time, 4. l. 15. s. And they ha<g ref="char:EOLhyphen"/>ving a very conſiderable Precedent, therefore <hi>(viz.)</hi> that for<g ref="char:EOLhyphen"/>merly at <hi>Worceſter,</hi> about ten or twelve of the ſame Troop, (then under the Command of Colonell <hi>Sands</hi>) having loſt thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:155828:10"/>
+Horſes in that fight (whereof the ſaid <hi>William Kendall</hi> was one) their Colonell giving Order they ſhould have but halfe their pay, they then (as now) in all humility, repaired to the Lord Generall the Earle of <hi>Eſſex,</hi> and having admittance to his cham<g ref="char:EOLhyphen"/>ber doore ſent in their grievances, and preſently received a gracious Anſwer, having their wrongs ſpeedily redreſſed) And upon the 24. of <hi>Ianuary</hi> laſt in the morning, the ſaid <hi>William Kendall</hi> and about twenty or more of the ſaid Troopers, think<g ref="char:EOLhyphen"/>ing that by the expreſſions of griefe of ſo many, it would have cauſed the mote pitie and ſpeedie redreſſe from their Captaine and Colonell) preſently went to their Captaine, and meeting with him juſt at the dore of his lodging, thinking to have ope<g ref="char:EOLhyphen"/>ned their griefe unto him as formerly they had done, he pre<g ref="char:EOLhyphen"/>vented them by telling of them, he had not then received any money for them, but was going to the Governours to ſee for ſome, bidding them preſently to follow him, and make their caſe knowne unto the Governour, whereupon they followed him in an orderly manner, as Souldiers with their Swords only by their ſides; and comming to the Governours, they went into the houſe after their Captaine, where ſome ſtayed in a little Parlour, and ſome in the entry, quietly waiting till the Go<g ref="char:EOLhyphen"/>vernour was ſtirring; and having waited there about a quarter of an houre, the Governour came downe unto them, without his doublet on, having a fire lock Piſtoll in his hand with the cock downe, and as it afterwads appeared, it was charged with a Bullet ready ſpan'd and primed, and comming to one of the Troopers, he ſpake to him after this manner <hi>(viz.)</hi> Sirra is your Horſe ready, whereunto he replyed, yes and pleaſe your Honour, then ſaid the Governour, ſirra goe and fetch him, ta<g ref="char:EOLhyphen"/>king the Trooper by the Arme, and thruſting of him out of the Parlour doore, ſpeaking the like words, &amp; doing the like action to two or three more of them, they making the like anſwer as before. And the ſaid then Governour <hi>Thom: Eſſex</hi> ſpake in like manner to the ſaid <hi>William Kendall</hi> deceaſed, and after ſome ſhort pauſe (not one word more paſſing between them, he ſhot the ſaid
+<pb n="18" facs="tcp:155828:11"/>
+                  <hi>William Kendall</hi> into his head with his ſaid Piſtoll, whereupon he immediately fell downe dead in the place, as <hi>Samuell Car<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Thomas Coſet, William Sedwell, VVilliam Smith,</hi> the ſaid <hi>Richard Rent, Iohn Colſtacke, Iames Polle,</hi> and <hi>Benjamin Parnell</hi> who were eye witneſſes thereunto, canne and will teſtifie. All which they knowing to be true, have thought fit to certifie under their hands this fourth day of <hi>March.</hi> 1642.</p>
+               <p>And they doe further certifie, that the ſaid <hi>William Kendall,</hi> after the ſaid Colonel <hi>Eſſex</hi> had bid him make ready his Horſe, deſired his Honour to heare him ſpeake two or three words un<g ref="char:EOLhyphen"/>to him, for which cauſe onely and for no other, the ſaid Co<g ref="char:EOLhyphen"/>lonell <hi>Eſſex</hi> immediately ſhot him with his Piſtoll as before, which the eye witneſſes before named can teſtifie at large.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Richard Kent.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Cowlſtock.</hi>
+                        </item>
+                        <item>
+                           <hi>William Siddell.</hi>
+                        </item>
+                        <item>
+                           <hi>Benjamin Parnell.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Coſet.</hi>
+                        </item>
+                        <item>
+                           <hi>James Polle.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="conclusion">
+               <p>THeſe things conſidered, if a Town of that conſequence had here <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the loſſe whereof would have drawn with it the loſſe of all the we<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> part of <hi>England,</hi> beſides the dangerous conſequences to this Kingdom at this time from Ireland, let any impartiall man iudge whether Colonell <hi>Fiennes</hi> ſeeing and ob<g ref="char:EOLhyphen"/>ſerving upon the place what he did, and being advertiſed of all theſe particulars, would not in the opinion of the world, have lien under the cenſure of being <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Knave or a Foole, if to prevent it he had not executed the command be <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed from my Lord Generall.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
